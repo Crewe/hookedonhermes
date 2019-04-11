@@ -13,7 +13,7 @@ DEFAULT_CHANNEL = '#general' # This can be a @user or #channel
 WEBHOOK_URL = '' # The Slack webhook URL
 ICON_URL = 'hermes.png'
 THUMB_URL = ''
-ADJECTIVES = ['Sweet', 'Great', 'Holy']
+ADJECTIVES = ['Sweet', 'Great', 'Holy', 'Cursed']
 RHYMES = [
     ['commit','Everest\'s summit'], 
     ['front-end', 'Switzerland'],
